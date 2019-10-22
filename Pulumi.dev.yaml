@@ -1,0 +1,6 @@
+config:
+  vsphere:allowUnverifiedSsl: "true"
+  vsphere:password:
+    secure: MyGirlLikesToPartyAllTheTimePartyAllTheTimeJ
+  vsphere:user: administrator@vsphere.local
+  vsphere:vsphere_server: hlcorevc01.humblelab.com
